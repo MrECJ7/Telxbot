@@ -22,7 +22,7 @@ http://t.me/Telxbot or @Telxbot
 4.Now Enter the command on your terminal to start the tool 
 - `$python Telx.py `
 
-Now Enter the targeted Group Id and set a massage 
+Now Enter the targeted Group Id and set a massage <br>
 <b>Note:</b>Don't use any space in the massage bot |massage example :You_have_been_hack
 
 ## Disclaimer
