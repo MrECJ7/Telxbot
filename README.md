@@ -15,7 +15,8 @@ To use this tool you have the python install on your system
 2.Install requirements
 - `$pip install urllib3 `
 - `$pip install time`
-3.Now Add the Telxbot to the targeted Group 
+
+3. Now Add the Telxbot to the targeted Group 
 
 http://t.me/Telxbot or @Telxbot
 
