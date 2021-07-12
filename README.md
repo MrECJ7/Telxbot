@@ -18,7 +18,7 @@ To use this tool you have the python install on your system
 
 3. Now Add the Telxbot to the targeted Group 
 
-=>http://t.me/Telxbot or @Telxbot
+=>> http://t.me/Telxbot or @Telxbot
 
 4.Now Enter the command on your terminal to start the tool 
 - `$python Telx.py `
