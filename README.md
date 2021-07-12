@@ -10,7 +10,7 @@ To use this tool you have the python install on your system
 
 1. Clone the repo
 
-  - `$git clone https://github.com/MrECJ7/Telxbot-A-telegram-bomber `
+  - `$git clone https://github.com/MrECJ7/Telxbot `
 
 2.Install requirements
 - `$pip install urllib3 `
