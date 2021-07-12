@@ -32,7 +32,7 @@ id=input("Enter  telegarm id:")
 mass=input("Enter massage:")
 #Replace the API with your own bot token 
 token="1795709734:AAHy2j_kf477RZt8Zb_1lQYfnnUYnPSMWn4"
-api="https://api.telegram.org/"+token+"/sendMessage?chat_id="+id+"&text="+mass
+api="https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+id+"&text="+mass
 print(api)
 while 1==1:
  r=request.urlopen(api)
