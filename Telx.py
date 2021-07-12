@@ -32,7 +32,7 @@ print("""
 """)
 id=input("Enter  telegarm id:")
 mass=input("Enter massage:")
-token="bot1800676900:AAGCsVFAKO1vQb0o0a1DSKyFU9bkmLzYpts"
+token="1795709734:AAHy2j_kf477RZt8Zb_1lQYfnnUYnPSMWn4"
 api="https://api.telegram.org/"+token+"/sendMessage?chat_id="+id+"&text="+mass
 print(api)
 while 1==1:
