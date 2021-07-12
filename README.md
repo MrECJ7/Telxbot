@@ -23,6 +23,7 @@ To use this tool you have the python install on your system
 4.Now Enter the command on your terminal to start the tool 
 - `$python Telx.py `
 
+<img sec="https://raw.githubusercontent.com/MrECJ7/Telxbot/main/img/ss.jpg">
 Now Enter the targeted Group Id and set a massage <br>
 <b>Note:</b>Don't use any space in the massage bot |massage example :You_have_been_hack
 
